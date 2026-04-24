@@ -1,6 +1,7 @@
 # Calorie Tracker / Gym Planner (PWA)
 
 Full-stack PWA built with Laravel, JavaScript, MySQL, and Docker.
+Source code available upon request.
 
 ## Overview
 Short explanation of what it does.
