@@ -6,7 +6,7 @@ Full-stack Progressive Web App built with Laravel, JavaScript, MySQL, and Docker
 **Full source code available upon request.**
 
 ## Overview
-Designed as a production-style application for tracking nutrition and planning training, with a focus on usability and real-world functionality.
+Designed as a production-style application for tracking nutrition and planning training, with a minimalistic approach focused on core functionality for effective calorie tracking (weight loss/gain), built with a weightlifting use case in mind.
 
 ## Features
 - Calorie tracking with full CRUD for food entries
